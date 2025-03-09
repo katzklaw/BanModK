@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="8vxwTh8BNhNEAAP7MWvhvX6LZbOkM6Zs3SeC54YI3hc" />
+
 [Italiano](https://github.com/GianniIta87/BanMod/blob/main/README-IT.md)
 
 <h1 align="center">BanMod for Among Us</h1>

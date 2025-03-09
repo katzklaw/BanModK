@@ -1,4 +1,4 @@
-[Italiano](src="README-IT.md")
+[Italiano](https://github.com/GianniIta87/BanMod/blob/main/README-IT.md)
 
 <h1 align="center">BanMod for Among Us</h1>
 

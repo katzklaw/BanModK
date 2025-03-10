@@ -1,7 +1,6 @@
-<meta name="google-site-verification" content="8vxwTh8BNhNEAAP7MWvhvX6LZbOkM6Zs3SeC54YI3hc" />
+### [ITALIANO](README-IT.md)
 
-[Italiano](https://github.com/GianniIta87/BanMod/blob/main/README-IT.md)
-
+### [INSTRUCTIONS](Istruzioni/INSTRUCTIONS.md)
 <h1 align="center">BanMod for Among Us</h1>
 
 

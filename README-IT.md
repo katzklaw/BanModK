@@ -1,3 +1,5 @@
+### [ISTRUZIONI](Istruzioni/ISTRUZIONI-IT.md)
+
 <h1 align="center">BanMod per Among Us</h1>
 
 

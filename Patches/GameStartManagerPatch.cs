@@ -67,9 +67,8 @@ public static class GameStartManagerPatch
                 // Reset lobby countdown timer
                 Timer = 600f;
                 HideName = Object.Instantiate(__instance.GameRoomNameCode, __instance.GameRoomNameCode.transform);
-                HideName.text = ColorUtility.TryParseHtmlString(BanMod.HideColor.Value, out _)
-                    ? $"<color={BanMod.HideColor.Value}>{BanMod.HideName.Value}</color>"
-                    : $"<color={BanMod.ModColor}>{BanMod.HideName.Value}</color>";
+                HideName.text = $"<color={BanMod.ModColor}>{BanMod.HideName.Value}</color>";
+            
                 if (!AmongUsClient.Instance.AmHost) return;
             }
         }

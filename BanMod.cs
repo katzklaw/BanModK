@@ -65,19 +65,8 @@ public partial class BanMod : BasePlugin
     {
         get
         {
-            if (!_unityModColor.HasValue)
-            {
-                if (ColorUtility.TryParseHtmlString(ModColor, out var unityColor))
-                {
-                    _unityModColor = unityColor;
-                }
-                else
-                {
-                    // failure
-                    return Color.gray;
-                }
-            }
-            return _unityModColor.Value;
+          
+            return Color.gray;
         }
     }
     private static Color? _unityModColor;

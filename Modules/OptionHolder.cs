@@ -65,14 +65,14 @@ namespace BanMod
             CheckBanList = BooleanOptionItem.Create(1_000_102, "CheckBanList", true, TabGroup.Banlist, true);
             CheckBlockList = BooleanOptionItem.Create(1_000_103, "CheckBlockList", true, TabGroup.Banlist, true);
 
-            AutoKickStart = BooleanOptionItem.Create(1_000_104, "AutoKickStart", true, TabGroup.Spamlist, true);
-            AutoKickStartAsBan = BooleanOptionItem.Create(1_000_105, "AutoKickStartAsBan", true, TabGroup.Spamlist, true);
+            AutoKickStart = BooleanOptionItem.Create(1_000_104, "AutoKickStart", false, TabGroup.Spamlist, true);
+            AutoKickStartAsBan = BooleanOptionItem.Create(1_000_105, "AutoKickStartAsBan", false, TabGroup.Spamlist, true);
             AutoKickStartTimes = (IntegerOptionItem)IntegerOptionItem.Create(1_000_106, "AutoKickStartTimes", new(1, 3, 1), 2, TabGroup.Spamlist,false)
                 .SetValueFormat(OptionFormat.Times);
 
             AutoKickStopWords = BooleanOptionItem.Create(1_000_107, "AutoKickStopWords", true, TabGroup.Wordlist, true);
             AutoKickStopWordsAsBan = BooleanOptionItem.Create(1_000_108, "AutoKickStopWordsAsBan", true, TabGroup.Wordlist, true);
-            AutoKickStopWordsTimes = (IntegerOptionItem)IntegerOptionItem.Create(1_000_109, "AutoKickStopWordsTimes", new(0, 3, 0), 0, TabGroup.Wordlist, false)
+            AutoKickStopWordsTimes = (IntegerOptionItem)IntegerOptionItem.Create(1_000_109, "AutoKickStopWordsTimes", new(1, 3, 1), 1, TabGroup.Wordlist, false)
                 .SetValueFormat(OptionFormat.Times);
 
 

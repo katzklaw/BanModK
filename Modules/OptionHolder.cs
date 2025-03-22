@@ -70,8 +70,8 @@ namespace BanMod
             AutoKickStartTimes = (IntegerOptionItem)IntegerOptionItem.Create(1_000_106, "AutoKickStartTimes", new(1, 3, 1), 2, TabGroup.Spamlist,false)
                 .SetValueFormat(OptionFormat.Times);
 
-            AutoKickStopWords = BooleanOptionItem.Create(1_000_107, "AutoKickStopWords", true, TabGroup.Wordlist, true);
-            AutoKickStopWordsAsBan = BooleanOptionItem.Create(1_000_108, "AutoKickStopWordsAsBan", true, TabGroup.Wordlist, true);
+            AutoKickStopWords = BooleanOptionItem.Create(1_000_107, "AutoKickStopWords", false, TabGroup.Wordlist, true);
+            AutoKickStopWordsAsBan = BooleanOptionItem.Create(1_000_108, "AutoKickStopWordsAsBan", false, TabGroup.Wordlist, true);
             AutoKickStopWordsTimes = (IntegerOptionItem)IntegerOptionItem.Create(1_000_109, "AutoKickStopWordsTimes", new(1, 3, 1), 1, TabGroup.Wordlist, false)
                 .SetValueFormat(OptionFormat.Times);
 

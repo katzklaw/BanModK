@@ -62,7 +62,41 @@ The mod was created by recovering and modifying parts of the codes of other mods
 ---
 ### Suggestions to improve the mod are welcome!
 ### Requests to add cheats will be ignored!!!
+---
+### UPDATE 1.0.2
 
+### New functions and commands more or less useful have been added.
+### Some settings are now located in the Options menu of the main settings at the top right.
+
+- You can enable or disable zoom (only works in lobby or if you are dead, to avoid cheating)
+- You can enable the option to add banned/blocked players to the ban list (moved from the Ban section of the main menu)
+- You can enable chat to access the banmenu and kick troll or afk players without having to wait for the next meeting
+- You can enable or disable lobby decorations, you must exit and recreate the lobby to activate the changes
+- You can disable or enable lobby music
+- You can kick your friends out of the kick for spam and swearing (Friends List.txt)
+- You can enable chat warning for spam and swearing (WARNING, it can cause the host to be kicked out, I hope I have "solved" it, if you encounter problems I suggest you disable it and let me know here or on telegram [@GianniBart](https://t.me/Giannibart)
+---
+### New commands have been added
+Commands must be written in chat and are 6
+
+- /id : Show all player IDs on the left screen (only readable by you)
+- /level (num) : Set your level, from 1 to 999 (only readable by you)
+- /add (id) : Add a friend to the Friends.txt list (only readable by you)
+- /dlt (id): Remove a friend from the Friends.txt list (only readable by you)
+- /spam : Send a message in chat warning the player not to send spam start (readable by everyone)
+- /word : Send a message in chat warning the player not to use forbidden words (readable by everyone)
+
+---
+
+### WARNING
+The automatic spam warning in chat has been changed to prevent kicking, it will not warn for every word, but only the first time
+You can send a predefined message using /spam or /word to the player who breaks the rules.
+
+/spam and /word commands must be used with a delay of at least 3 seconds from the last message sent in chat. Sending multiple messages without waiting may cause the host to be kicked.
+
+The updated code files are lost, as soon as I can rewrite them I will add them to the repository, please be patient.
+
+---
 If you want to support me you can donate on paypal.
 Donations are optional.
 ### :star: [Donate with PayPal](https://www.paypal.com/donate/?hosted_button_id=AQTKF6FGQLPCL)

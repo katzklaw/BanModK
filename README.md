@@ -63,7 +63,7 @@ The mod was created by recovering and modifying parts of the codes of other mods
 ### Suggestions to improve the mod are welcome!
 ### Requests to add cheats will be ignored!!!
 ---
-### UPDATE 1.0.2
+### UPDATE 1.2.0
 
 ### New functions and commands more or less useful have been added.
 ### Some settings are now located in the Options menu of the main settings at the top right.

@@ -62,7 +62,7 @@ La mod è stata creata recuperando e modificando parti di codice di altre mod, i
 ### I suggerimenti per migliorare/aggiornare la mod sono benvenuti!
 ### Le richieste di aggiungere trucchi saranno ignorate!!!
 ---
-### AGGIORNAMENTO 1.0.2
+### AGGIORNAMENTO 1.2.0
 
 ### Sono state aggiunte nuove funzioni e comandi più o meno utili.
 ### Alcune impostazioni si trovano ora nel menu Opzioni delle impostazioni principali in alto a destra.

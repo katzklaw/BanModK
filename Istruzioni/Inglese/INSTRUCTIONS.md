@@ -1,74 +1,59 @@
 <h1 align="center">INSTRUCTIONS</h1>
 
-The mod can be activated and deactivated at your will, by default only the kick for banned words and for spam Start are always active, but you can always deactivate them.
+Hello, Here I will briefly explain the functions of the Mod, in case something is not clear you could also contact me on telegram
 
-To make the mod work properly you need to set some files in the BAN_DATA folder that is in the main folder of Among.
+### To make the mod work properly you need to set some files in the BAN_DATA folder that is in the main folder of Among.
 
-<img src="/Istruzioni/Folder.PNG">
-
----
-
-<img src="/Istruzioni/List.PNG">
-
-The banned words must be manually entered in the BanWord.txt list, you can insert and remove words as you like.
+<img src="/Istruzioni/Inglese/Among Folder.PNG">
 
 ---
 
-### :star: DENYNAME
----
-Denyname.txt must also be updated manually and the names can be entered in multiple formats (fxckYou - Fxckyou - FxckYou - FXCKYOU) as shown in the photo.
-
-<img src="/Istruzioni/Denyname.PNG" width="30%" />
+### There will be 4 files
+<img src="/Istruzioni/Inglese/BAN_DATA Folder.PNG"/>
 
 ---
 
-The player with the banned name will be automatically kicked ONLY if the "Kick Players with Denyname" option is enabled.
+### :star: Friends.txt
+Here will go the account codes of the friends, they must be inserted with the command **/add (id)** and removed with **/dlt (id)**
 
 ---
 
-<img src="/Istruzioni/option3.PNG" width="50%" height="300" />
+### :star: Denyname.txt
+Here you will have to manually insert the names that we do not want in the lobby (for example Turetta, Hitler etc)
+
+EXAMPLE PHOTO:
+
+<img src="/Istruzioni/Inglese/Denyname.PNG" width="30%" />
 
 ---
 
-### :star: BANLIST
-
-The banlist.txt is automatically updated when you ban someone and if the "Add Banned/Blocked Players to BanList" option is enabled.
-
----
-<img src="/Istruzioni/AddToBan.PNG" width="50%" height="300" />
-<img src="/Istruzioni/BAN.PNG" width="50%" height="300" />
+### :star: BanWord.txt
+Here we can add the forbidden words, insert them always in more formats (for example STUPID Stupid stupid) as for the Denyname.txt file (PHOTO ABOVE)
 
 ---
 
-If you accidentally add players to the banlist, you must remove them from the list manually with a text editor.
+### :star: BanList.txt
+Here you automatically add the players you ban and no longer want to enter your lobby, if you mistakenly add someone you don't want you have to delete them from the list manually.
+
+<img src="/Istruzioni/Inglese/BanList.PNG" width="30%" />
 
 ---
 
-<img src="/Istruzioni/BanList.PNG">
+### There are several commands, with the command **"/help"** you will get all the Info.
+For each command or action a notification will appear on the left of the screen with the description of what is happening or in chat (visible only to you).
 
 ---
 
-The banlist denies entry to the lobby the players only if the "Activate Kick Players (Banlist)" option is active **(The third option from the top, which in the photo is currently deactivated)**
+### commands /msg- /msgs-/msgw
+To customize the commands with your messages you have to edit the template.dat file located in the language folder and insert your texts.
+The template.dat file then rename it to English.dat
+
+<img src="/Istruzioni/Inglese/Language Folder.PNG" />
+
+<img src="/Istruzioni/Inglese/English_dat example.PNG" width="30%" />
 
 ---
 
-### :star: BLOCKLIST
-
-The blocklist option is identical to the ban list, it denies entry to players blocked in the official list of among
-only if the "Activate Kick Players (Blocklist)" option is active **(The fourth option from the top, the last one at the bottom which in the photo is currently deactivated)**
-
-<img src="/Istruzioni/Blocked.PNG">
-
----
-
-### In all the cases described, a notification will appear on the left of the screen with the description of what is happening
-
-<img src="/Istruzioni/Banned.PNG">
-<img src="/Istruzioni/banlist on.PNG">
-<img src="/Istruzioni/blockedliston.PNG">
-
----
-
-For more information you can write me on Telegramm
+For more information you can write to me on Telegramm
 ### [@GianniBart](https://t.me/Giannibart)
 I will reply as soon as possible

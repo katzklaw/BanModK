@@ -56,12 +56,12 @@ namespace BanMod
 
             AutoKickStart = BooleanOptionItem.Create(1_000_104, "AutoKickStart", true, TabGroup.Spamlist, true);
             AutoKickStartAsBan = BooleanOptionItem.Create(1_000_105, "AutoKickStartAsBan", false, TabGroup.Spamlist, true);
-            AutoKickStartTimes = (IntegerOptionItem)IntegerOptionItem.Create(1_000_106, "AutoKickStartTimes", new(0, 5, 1), 2, TabGroup.Spamlist,false)
+            AutoKickStartTimes = (IntegerOptionItem)IntegerOptionItem.Create(1_000_106, "AutoKickStartTimes", new(0, 5, 1), 1, TabGroup.Spamlist,false)
                 .SetValueFormat(OptionFormat.Times);
 
             AutoKickStopWords = BooleanOptionItem.Create(1_000_109, "AutoKickStopWords", true, TabGroup.Wordlist, true);
             AutoKickStopWordsAsBan = BooleanOptionItem.Create(1_000_110, "AutoKickStopWordsAsBan", false, TabGroup.Wordlist, true);
-            AutoKickStopWordsTimes = (IntegerOptionItem)IntegerOptionItem.Create(1_000_111, "AutoKickStopWordsTimes", new(0, 5, 1), 1, TabGroup.Wordlist, false)
+            AutoKickStopWordsTimes = (IntegerOptionItem)IntegerOptionItem.Create(1_000_111, "AutoKickStopWordsTimes", new(0, 5, 1), 0, TabGroup.Wordlist, false)
                 .SetValueFormat(OptionFormat.Times);
 
             IsLoaded = true;

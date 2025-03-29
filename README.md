@@ -1,9 +1,9 @@
 ### [ITALIANO](README-IT.md)
 ### [ISTRUZIONI ITALIANO](Istruzioni/Italiano/ISTRUZIONI-IT.md)
 ### [INSTRUCTIONS](Istruzioni/Inglese/INSTRUCTIONS.md)
-<h1 align="center">BanMod for Among Us</h1>
+<h1 align="center">BanMod for Among Us - modified by katzklaw</h1>
 
-<img align="left" alt="Cover" src="Resources/newimage.png" width="50%" height="300" />
+<img align="left" alt="Cover" src="Resources/image.png" width="50%" height="300" />
 <p align="right">
 
 > ### About This Mod

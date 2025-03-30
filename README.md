@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="8vxwTh8BNhNEAAP7MWvhvX6LZbOkM6Zs3SeC54YI3hc" />
+
 ### [ITALIANO](README-IT.md)
 ### [ISTRUZIONI ITALIANO](Istruzioni/Italiano/ISTRUZIONI-IT.md)
 ### [INSTRUCTIONS](Istruzioni/Inglese/INSTRUCTIONS.md)

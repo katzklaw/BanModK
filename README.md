@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="google-site-verification" content="mGatmtoMfPqiTi-Kj58m8FCzmGvXDS5JbiboE_KjICg" />
+    <meta name="google-site-verification" content="8vxwTh8BNhNEAAP7MWvhvX6LZbOkM6Zs3SeC54YI3hc" />
 
 <meta name="generator" content="Jekyll v3.10.0" />
 <meta property="og:title" content="BanMod" />
@@ -18,7 +18,7 @@
 <meta property="twitter:title" content="BanMod" />
 
   </head>
-      <meta name="google-site-verification" content="mGatmtoMfPqiTi-Kj58m8FCzmGvXDS5JbiboE_KjICg" />
+  <meta name="google-site-verification" content="8vxwTh8BNhNEAAP7MWvhvX6LZbOkM6Zs3SeC54YI3hc" />
   <body>
       
 <h3 id="-italiano-readme-it-md-"><a href="README-IT.md">ITALIANO</a></h3>

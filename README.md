@@ -1,5 +1,5 @@
 ### [ITALIANO](README-IT.md)
-### [INSTRUCTIONS](Istruzioni/Inglese/INSTRUCTIONS-EN.md)
+### [INSTRUCTIONS](Istruzioni/Inglese/INSTRUCTIONS.md)
 
 <h1 align="center">BanMod for Among Us</h1>
 

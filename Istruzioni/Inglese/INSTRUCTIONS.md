@@ -14,26 +14,27 @@ Hello, Here I will briefly explain the functions of the Mod, in case something i
 ---
 
 ### :star: Friends.txt
-Here will go the account codes of the friends, they must be inserted with the command **/add (id)** and removed with **/dlt (id)**
+Here you will find the account codes of your friends, they must be inserted with the command **/add (id)** and removed with **/dlt (id)**
 
 ---
 
 ### :star: Denyname.txt
-Here you will have to manually insert the names that we do not want in the lobby (for example Turetta, Hitler etc)
+Here you will enter the names that you do not want in the lobby (for example Turetta, Hitler etc)
 
-EXAMPLE PHOTO:
-
-<img src="/Istruzioni/Inglese/Denyname.PNG" width="30%" />
+They can be inserted and removed manually or with the command **/adddn (name)** and **/dltdn (name)**
 
 ---
 
 ### :star: BanWord.txt
-Here we can add the forbidden words, insert them always in more formats (for example STUPID Stupid stupid) as for the Denyname.txt file (PHOTO ABOVE)
+Here we can add the forbidden words and swear words
+
+They can be inserted and removed manually or with the command **/adddw (word)** and **/dltdw (word)**
 
 ---
 
 ### :star: BanList.txt
-Here you automatically add the players you ban and no longer want to enter your lobby, if you mistakenly add someone you don't want you have to delete them from the list manually.
+Here you will automatically add the players that you ban and do not want to allow to enter your lobby anymore, in case you mistakenly add someone who is not you want you have to delete it from the list manually.
+(To add players the option must be active)
 
 <img src="/Istruzioni/Inglese/BanList.PNG" width="30%" />
 
@@ -44,7 +45,7 @@ For each command or action a notification will appear on the left of the screen 
 
 ---
 
-### commands /msg- /msgs-/msgw
+### commands /msg - /msgs - /msgw
 To customize the commands with your messages you have to edit the template.dat file located in the language folder and insert your texts.
 The template.dat file then rename it to English.dat
 

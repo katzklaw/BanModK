@@ -51,10 +51,10 @@ is circumvented by changing the ip of the device or using a vpn!!!
 - **/level (num)** : Temporarily set your level, valid from 1 to 999
 - **/add (id)** : Add a friend to the Friends.txt list
 - **/dlt (id)** : Remove a friend from the Friends.txt list
-- **/adddn (name)** : Add a denied name to the DenyName.txt list</li>
-- **/dltdn (name)** : Remove a denied name from the DenyNames.txt list</li>
-- **/adddw (word)** : Add a denied word to the BanWord.txt list</li>
-- **/dltdw (word)** : Remove a denied word from the BanWord.txt list</li>
+- **/adddn (name)** : Add a denied name to the DenyName.txt list
+- **/dltdn (name)** : Remove a denied name from the DenyNames.txt list
+- **/adddw (word)** : Add a denied word to the BanWord.txt list
+- **/dltdw (word)** : Remove a denied word from the BanWord.txt list
 - **/spam** : Send a message in chat warning the player not to send spam start (readable by everyone)
 - **/word** : Send a message in chat warning the player not to use forbidden words (readable by everyone)
 - **/msg** : Send a message in chat (readable by everyone, if you edit it do not exceed 120 characters)

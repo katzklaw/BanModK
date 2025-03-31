@@ -53,6 +53,10 @@ viene raggirato cambiando l'ip del dispositivo o usando una vpn!!!
 - **/level (num)** : Imposta momentaneamente il tuo livello, valido da 1 a 999
 - **/add (id)** : Aggiungi un amico alla lista Friends.txt
 - **/dlt (id)** : Rimuovi un amico dalla lista Friends.txt
+- **/adddn (nome)** : Aggiungi un nome vietato alla lista DenyName.txt
+- **/dltdn (nome)** : Rimuovi un nome vietato dalla lista DenyName.txt
+- **/adddw (parola)** : Aggiungi una Parola vietata alla lista BanWord.txt
+- **/dltdw (parola)** : Rimuovi una Parola vietata dalla lista BanWord.txt
 - **/spam** : Invia un messaggio in chat avvertendo il giocatore di non inviare spam start (leggibile da tutti)
 - **/word** : Invia un messaggio in chat avvertendo il giocatore di non usare parole proibite (leggibile da tutti)
 - **/msg** : Invia un messaggio in chat (leggibile da tutti, se lo modifichi non superare i 120 caratteri)

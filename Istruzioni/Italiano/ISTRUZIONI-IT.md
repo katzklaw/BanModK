@@ -14,26 +14,27 @@ Ciao, Qui Spiegherò brevemente le funzioni della Mod, in caso qualcosa non vi s
 ---
 
 ### :star: Friends.txt 
-Qui ci andranno i codici account degli amici, vanno inseriti con il comando **/add (id)** e rimossi con **/dlt (id)**
+Qui ci andranno i codici account degli amici, vanno inseriti con il comando **/add (id)** e rimossi con **/dlt (id)** 
 
 ---
 
 ### :star: Denyname.txt 
-Qui andranno inseriti manualmente i nomi che non vogliamo in lobby (per esempio Turetta, Hitler ecc)
+Qui andranno inseriti i nomi che non vogliamo in lobby (per esempio Turetta, Hitler ecc)
 
-FOTO DI ESEMPIO:
-
-<img src="/Istruzioni/Italiano/Denyname.PNG" width="30%"  /> 
+Possono essere inseriti e rimossi manualmente oppure con il comando **/adddn (nome)** e **/dltdn (nome)** 
 
 ---
 
 ### :star: BanWord.txt 
-Qui possiamo aggiungere le parole vietate, inserirli sempre in piu formati (per esempio SCEMO Scemo scemo) come per il file Denyname.txt (FOTO SOPRA)
+Qui possiamo aggiungere le parole vietate e le parolacce
+
+Possono essere inseriti e rimossi manualmente oppure con il comando **/adddw (parola)** e **/dltdw (parola)** 
 
 ---
 
 ### :star: BanList.txt 
 Qui si aggiungono automaticamente i players che banni e non vuoi piu far entrare nella tua lobby, nel caso aggiungi erroneamente qualcuno che non vuoi devi cancellarlo dalla lista manualmente.
+(Per aggiungere i player l opzione deve essere attiva)
 
 <img src="/Istruzioni/Italiano/BanList.PNG" width="30%"  /> 
 

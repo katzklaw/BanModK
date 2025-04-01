@@ -62,7 +62,8 @@ viene raggirato cambiando l'ip del dispositivo o usando una vpn!!!
 - **/msg** : Invia un messaggio in chat (leggibile da tutti, se lo modifichi non superare i 120 caratteri)
 - **/msgs** : Invia un messaggio in chat che riguarda lo spam (leggibile da tutti, se lo modifichi non superare i 120 caratteri)
 - **/msgw** : Invia un messaggio in chat che riguarda le parolacce (leggibile da tutti, se lo modifichi non superare i 120 caratteri)
-
+- **/end** : Chiude il meeting (Non usarlo per barare!)
+- 
 ---
 
                    

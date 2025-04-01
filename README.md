@@ -60,7 +60,7 @@ is circumvented by changing the ip of the device or using a vpn!!!
 - **/msg** : Send a message in chat (readable by everyone, if you edit it do not exceed 120 characters)
 - **/msgs** : Send a message in chat about spam (readable by everyone, if you edit it do not exceed 120 characters)
 - **/msgw** : Send a message in chat about swear words (readable by everyone, if you modify it do not exceed 120 characters)
-
+- **/end** : End a meeting (Dont use for cheating please!)
 ---
 
 ---
